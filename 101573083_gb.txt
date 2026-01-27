@@ -1,7 +1,6 @@
-This file will contain information about George Brown College. 
+Some facts about George Brown College.
 
-George Brown College is based in Toronto. 
-
-There are multiple campuses which include: Casa Loma, St James
-
-Program Delivery Options: Online, Hybrid and In Person
+Founded in 1968.
+Students: 30,000+ 
+Campuses: Casa Loma, St James, Waterfront
+Program Delivery Options: Online, Hybrid, and In Person
