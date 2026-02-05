@@ -4,5 +4,6 @@ It is a required course for the T191 Computer Systems Technician students.
 
 The current term is Winter 2026 and is being taught by Pritesh Patel.
 
+Classes are held online through Teams. 
 Lectures are on Mondays from 6-8pm.
 Labs are on Wednesdays from 4-6pm. 
