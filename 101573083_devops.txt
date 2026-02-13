@@ -1,0 +1,12 @@
+This file is about George Brown College's COMP 2156 DevOps course. 
+
+It is a required course for the T191 Computer Systems Technician students. 
+
+The current term is Winter 2026 and is being taught by Pritesh Patel.
+
+Classes are held online through Teams. 
+Lectures are on Mondays from 6-8pm.
+Labs are on Wednesdays from 4-6pm. 
+
+Labs are presented each week and the corresponding screenshots are due by the end of day on Sunday.  
+8 out of 10 labs are marked and represent 16% of the Final Grade.  
