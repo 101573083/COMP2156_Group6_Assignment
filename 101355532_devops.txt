@@ -1,1 +1,2 @@
 This is some information about the COMP2156 DevOps course at George Brown
+The COMP2156 DevOps course at George Brown covers many development areas, such as DevOps lifecycles, CI/CD pipelines and version management.
