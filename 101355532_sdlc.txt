@@ -1,3 +1,4 @@
 Information on SDLC
 SDLC stands for Software Development Life Cycle, which is the structured framework of phases that is crucial to software development. It mainly consits of stages such as planning, design, analysis, development, followed by testing, and finally deployment and maintenance. It is a fundamental structure required for the efficient development of software.
 A key SDLC model is DevOps, which bridges the gap between development and operation, mainly through the use of continuous intergration and deployment and automation.
+Another crucial SDLC tool is Git, which is used to track changes and make collaboration easier during the development phase.
